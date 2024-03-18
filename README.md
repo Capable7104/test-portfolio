@@ -1,0 +1,1 @@
+This portfolio is made under guidance of Angela Yu's Web Development Bootcamp on Udemy. This serves as a practical application of the lessons that I've learned so far.
